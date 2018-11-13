@@ -13,4 +13,6 @@ Glossar
       after the parsing stage, so that successive runs only need to read
       and parse new and changed documents.
 
-      
+   channel
+      The fundamental identity on the grid. Channels can make connections with other channels to share information with highly detailed permissions.
+            
